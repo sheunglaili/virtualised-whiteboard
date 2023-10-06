@@ -1,6 +1,6 @@
 # Virtualised Whiteboard 
 
-Source code for the article written at: https://dev.to/sheunglaili/react-virtualisation-from-scratch
+Source code for the article written at: https://dev.to/sheunglaili/react-virtualisation-from-scratch-16g7
 
 ## Getting started
 
